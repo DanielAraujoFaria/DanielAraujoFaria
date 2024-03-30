@@ -6,7 +6,7 @@
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBxbDZybm9uc2sxY2s4NTB1amZtMXl6bzgwa3llejkzZmtsbXE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWS0YNs10XAoAbhHS0/giphy.gif" width="25px"> Sobre mim 
 - Moro em São Paulo - SP
 - 19 Anos
-- Cursando Análise e Desenvolvimento de Sistemas
+- Cursando Análise e Desenvolvimento de Sistemas (FIAP)
 - Aberto para novas oportunidades
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=%232E65E6&Fwww.linkedin.com%2Fin%2Fdaniel-a-427b57262%2F)](https://www.linkedin.com/in/daniel-a-427b57262/)
