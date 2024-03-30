@@ -1,7 +1,6 @@
+---
 #  Olá! Meu nome é Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - Seja muito Bem-vindo ao meu GitHub!!!
-
-
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBxbDZybm9uc2sxY2s4NTB1amZtMXl6bzgwa3llejkzZmtsbXE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWS0YNs10XAoAbhHS0/giphy.gif" width="25px"> Sobre mim 
 - Moro em São Paulo - SP
