@@ -9,6 +9,7 @@
 - Cursando Análise e Desenvolvimento de Sistemas (FIAP)
 - Aberto para novas oportunidades
 
+Contatos:
 [![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=%232E65E6&Fwww.linkedin.com%2Fin%2Fdaniel-a-427b57262%2F)](https://www.linkedin.com/in/daniel-a-427b57262/)
 [![Static Badge](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&link=mailto%3Adanielfari.araujo%40gmail.com)](mailto:danielfari.araujo@gmail.com)
 
